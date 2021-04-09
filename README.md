@@ -13,7 +13,7 @@ About me -
   So - I rehashed my superjunior Python skills - Now updated to Python 3 (sweet) - and started coding my own small automations, syncs and API-requests.
   
   Most of my work is not suitable for sharing due to GDPR as well as me not being absolutely on par with the regimes of open source policies, but -
-  I will commit my own private journey through Python3-land in #groundControl to document it.
+  I will commit my own private journey through Python3-land in aptly named repositories to document it.
   
     ...Might be in order to have some notes while I fumble around with classes, inheritance and brute-force-code.
   
